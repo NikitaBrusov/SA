@@ -1,2 +1,7 @@
-# Приемочное тестирование
+# Тестирование
 
+## Hard skills
+
+* Postman
+* Swagger
+* Insomnia

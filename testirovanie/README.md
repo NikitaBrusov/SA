@@ -1,6 +1,6 @@
 # Тестирование
 
-## Hard skills
+## Stack
 
 * Postman
 * Swagger

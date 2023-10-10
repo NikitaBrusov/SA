@@ -1,8 +1,6 @@
 # Диаграммы
 
-
-
-## Hard skills
+## Stack
 
 * Camunda
 * Draw.io

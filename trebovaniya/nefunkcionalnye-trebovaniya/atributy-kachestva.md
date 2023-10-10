@@ -17,6 +17,6 @@
 
 Примеры:&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Источник: [https://www.webursitet.ru/article/vidy-trebovanii-k-programmnomu-produktu.html](https://www.webursitet.ru/article/vidy-trebovanii-k-programmnomu-produktu.html)

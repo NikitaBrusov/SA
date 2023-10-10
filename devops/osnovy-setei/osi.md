@@ -1,4 +1,6 @@
-# OSI (old)
+# OSI
+
+[**https://backendinterview.ru/network/osi.html**](https://backendinterview.ru/network/osi.html)
 
 **OSI** - формальная, теоретическая сетевая модель
 

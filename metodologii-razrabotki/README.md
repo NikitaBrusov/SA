@@ -13,9 +13,3 @@
 7. Spiral Model (спиральная модель)
 
 Рассмотрим основные из них, которые чаще всего фигурируют в современных IT компаниях.&#x20;
-
-
-
-
-
-Можно почитать: [https://javarush.com/groups/posts/2443-vse-chto-nuzhno-znatjh-o-metodologijakh-razrabotki-po-trendih-principih-i-lovushki-dlja-novichk](https://javarush.com/groups/posts/2443-vse-chto-nuzhno-znatjh-o-metodologijakh-razrabotki-po-trendih-principih-i-lovushki-dlja-novichk)

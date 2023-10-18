@@ -63,3 +63,4 @@
   * [Axure](makety/axure.md)
 * [Другое](drugoe/README.md)
   * [📎 BA vs SA](drugoe/ba-vs-sa.md)
+  * [Контакты](drugoe/kontakty.md)

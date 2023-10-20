@@ -16,6 +16,7 @@
   * [HTTP](integracii/http.md)
   * [Синхронное взаимодействие](integracii/sinkhronnoe-vzaimodeistvie/README.md)
     * [REST|SOAP|gRPC](integracii/sinkhronnoe-vzaimodeistvie/rest-or-soap-or-grpc.md)
+    * [Архив](integracii/sinkhronnoe-vzaimodeistvie/arkhiv.md)
   * [Асинхронное взаимодействие](integracii/asinkhronnoe-vzaimodeistvie.md)
   * [Sync vs Async](integracii/sync-vs-async.md)
 * [📍 Базы данных](bazy-dannykh/README.md)

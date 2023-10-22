@@ -1,6 +1,6 @@
 # Kanban
 
-<figure><img src="../../.gitbook/assets/Kanban-2x-768x723.png" alt="" width="375"><figcaption><p>Цикл разработки по Kanban</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Kanban-2x-768x723.png" alt="" width="375"><figcaption><p>Цикл разработки по Kanban</p></figcaption></figure>
 
 **Kanban** - подход к разработке ПО по методике Agile, который подразумевает открытость всех рабочих процессов и постоянное улучшение производительности. Каждый член команды выполняет индивидуальный набор задач.
 

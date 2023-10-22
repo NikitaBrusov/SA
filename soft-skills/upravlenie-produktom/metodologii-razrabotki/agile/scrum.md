@@ -1,6 +1,6 @@
 # Scrum
 
-<figure><img src="../../.gitbook/assets/Scrum-2x.png" alt="" width="563"><figcaption><p>Цикл разработки по Scrum</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Scrum-2x.png" alt="" width="563"><figcaption><p>Цикл разработки по Scrum</p></figcaption></figure>
 
 Если Agile – это принципы и философия, то Scrum – это набор конкретных правил и регламентов, которые говорят о том, как именно организовывать работу.&#x20;
 

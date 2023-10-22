@@ -9,5 +9,5 @@
 
 Источник: [https://babok-school.ru/blogs/how-to-write-srs-and-technical-task-without-standards/](https://babok-school.ru/blogs/how-to-write-srs-and-technical-task-without-standards/)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

@@ -18,4 +18,4 @@
 Карл И. Вигерс
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/requirement_types.jpg" alt="" width="559"><figcaption><p>Схема требований</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/requirement_types.jpg" alt="" width="559"><figcaption><p>Схема требований</p></figcaption></figure>

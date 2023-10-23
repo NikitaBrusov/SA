@@ -10,7 +10,7 @@ description: качественные характеристики (как?)
 
 Нефункциональные требования складываются из трех частей:
 
-**КАРТИНКА нефункциональных**
+<figure><img src="../../../.gitbook/assets/требования.jpg" alt="" width="563"><figcaption><p>Нефункциональные требования</p></figcaption></figure>
 
 ## Атрибуты качества
 
@@ -38,14 +38,6 @@ FURPS это пять тезисов:
 * **Удобство использования** (Usability). Удобство работы пользователей.&#x20;
 * **Производительность** (Performance). Скорость, эффективность, потребление ресурсов, пропускная способность, время отклика.
 * **Сопровождаемость** (Supportability). Все вместе: Тестируемость, расширяемость, адаптируемость, ремонтопригодность, совместимость, настраиваемость, удобство обслуживания, локализуемость, портативность.
-
-
-
-
-
-
-
-Источник: [http://foranalysts.blogspot.com/2011/08/blog-post\_3440.html](http://foranalysts.blogspot.com/2011/08/blog-post\_3440.html)
 
 </details>
 
@@ -99,3 +91,4 @@ FURPS это пять тезисов:
 * [https://analytics.infozone.pro/requirements-analysis/analysis-of-requirements-wiegers-2004](https://analytics.infozone.pro/requirements-analysis/analysis-of-requirements-wiegers-2004/)
 * [https://www.webursitet.ru/article/vidy-trebovanii-k-programmnomu-produktu.html](https://www.webursitet.ru/article/vidy-trebovanii-k-programmnomu-produktu.html)
 * [pikabu.ru/story/karera\_v\_it\_sistemnyiy\_analitik\_chast\_1\_vidyi\_i\_kachestva\_trebovaniy\_9945259](https://pikabu.ru/story/karera\_v\_it\_sistemnyiy\_analitik\_chast\_1\_vidyi\_i\_kachestva\_trebovaniy\_9945259)
+* [http://foranalysts.blogspot.com/2011/08/blog-post\_3440.html](http://foranalysts.blogspot.com/2011/08/blog-post\_3440.html)

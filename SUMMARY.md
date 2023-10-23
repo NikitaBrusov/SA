@@ -7,7 +7,7 @@
 * [📍 Управление продуктом](soft-skills/upravlenie-produktom/README.md)
   * [Роли в IT продукте](soft-skills/upravlenie-produktom/roli-v-it-produkte.md)
   * [Жизненный цикл продукта](soft-skills/upravlenie-produktom/zhiznennyi-cikl-produkta.md)
-  * [✅ Методологии разработки](soft-skills/upravlenie-produktom/metodologii-razrabotki/README.md)
+  * [Методологии разработки](soft-skills/upravlenie-produktom/metodologii-razrabotki/README.md)
     * [Waterfall](soft-skills/upravlenie-produktom/metodologii-razrabotki/waterfall.md)
     * [Agile](soft-skills/upravlenie-produktom/metodologii-razrabotki/agile/README.md)
       * [Scrum](soft-skills/upravlenie-produktom/metodologii-razrabotki/agile/scrum.md)
@@ -22,8 +22,7 @@
   * [Качества требований](soft-skills/trebovaniya/kachestva-trebovanii.md)
   * [Use case](soft-skills/trebovaniya/use-case.md)
   * [Методы сбора требований](soft-skills/trebovaniya/metody-sbora-trebovanii.md)
-  * [ТЗ](soft-skills/trebovaniya/tz/README.md)
-    * [Заказчик](soft-skills/trebovaniya/tz/zakazchik.md)
+  * [Техническое задание (ТЗ)](soft-skills/trebovaniya/tekhnicheskoe-zadanie-tz.md)
 
 ## Hard skills
 
@@ -44,7 +43,7 @@
     * [BPMN](hard-skills/proektirovanie/diagrammy/bpmn.md)
     * [UML](hard-skills/proektirovanie/diagrammy/uml.md)
     * [ERD](hard-skills/proektirovanie/diagrammy/erd.md)
-  * [📎 Макеты](hard-skills/proektirovanie/makety/README.md)
+  * [Макеты](hard-skills/proektirovanie/makety/README.md)
     * [Figma](hard-skills/proektirovanie/makety/figma.md)
     * [Axure](hard-skills/proektirovanie/makety/axure.md)
 * [📎 DevOps](hard-skills/devops/README.md)
@@ -55,7 +54,7 @@
     * [DNS](hard-skills/devops/osnovy-setei/dns.md)
   * [Kubernetes](hard-skills/devops/kubernetes.md)
   * [Openshift](hard-skills/devops/openshift.md)
-  * [📎 cmd](hard-skills/devops/cmd.md)
+  * [cmd](hard-skills/devops/cmd.md)
   * [Git](hard-skills/devops/git.md)
   * [DWH](hard-skills/devops/dwh.md)
   * [ETL](hard-skills/devops/etl.md)
@@ -63,14 +62,14 @@
 * [📎 Мониторинг](hard-skills/monitoring/README.md)
   * [Grafana](hard-skills/monitoring/grafana.md)
   * [Kibana](hard-skills/monitoring/kibana.md)
-* [Тестирование](hard-skills/testirovanie/README.md)
-  * [Нагрузочное](hard-skills/testirovanie/nagruzochnoe.md)
+* [📎 Тестирование](hard-skills/testirovanie/README.md)
+  * [НТ](hard-skills/testirovanie/nt.md)
   * [ИФТ](hard-skills/testirovanie/ift.md)
-  * [📍 Приемочное](hard-skills/testirovanie/priemochnoe.md)
+  * [Приемочное](hard-skills/testirovanie/priemochnoe.md)
 
 ***
 
 * [Другое](drugoe/README.md)
-  * [📎 BA vs SA](drugoe/ba-vs-sa.md)
+  * [BA vs SA](drugoe/ba-vs-sa.md)
   * [Контакты](drugoe/kontakty.md)
   * [Вопросы](drugoe/voprosy.md)

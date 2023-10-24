@@ -29,6 +29,7 @@
 * [📍 Интеграции](hard-skills/integracii/README.md)
   * [Синхронное взаимодействие](hard-skills/integracii/sinkhronnoe-vzaimodeistvie/README.md)
     * [REST vs SOAP](hard-skills/integracii/sinkhronnoe-vzaimodeistvie/rest-vs-soap.md)
+    * [Форматы данных](hard-skills/integracii/sinkhronnoe-vzaimodeistvie/formaty-dannykh.md)
   * [Асинхронное взаимодействие](hard-skills/integracii/asinkhronnoe-vzaimodeistvie.md)
   * [Sync vs Async](hard-skills/integracii/sync-vs-async.md)
 * [📍 Базы данных](hard-skills/bazy-dannykh/README.md)
@@ -59,13 +60,12 @@
   * [DWH](hard-skills/devops/dwh.md)
   * [ETL](hard-skills/devops/etl.md)
   * [CI/CD](hard-skills/devops/ci-cd.md)
+* [📎 Тестирование](hard-skills/testirovanie/README.md)
+  * [Swagger](hard-skills/testirovanie/swagger.md)
+  * [Postman | Insomnia](hard-skills/testirovanie/postman-or-insomnia.md)
 * [📎 Мониторинг](hard-skills/monitoring/README.md)
   * [Grafana](hard-skills/monitoring/grafana.md)
   * [Kibana](hard-skills/monitoring/kibana.md)
-* [📎 Тестирование](hard-skills/testirovanie/README.md)
-  * [НТ](hard-skills/testirovanie/nt.md)
-  * [ИФТ](hard-skills/testirovanie/ift.md)
-  * [Приемочное](hard-skills/testirovanie/priemochnoe.md)
 
 ***
 

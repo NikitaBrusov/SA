@@ -26,12 +26,6 @@
 
 ## Hard skills
 
-* [📍 Интеграции](hard-skills/integracii/README.md)
-  * [Синхронное взаимодействие](hard-skills/integracii/sinkhronnoe-vzaimodeistvie/README.md)
-    * [REST vs SOAP](hard-skills/integracii/sinkhronnoe-vzaimodeistvie/rest-vs-soap.md)
-    * [Форматы данных](hard-skills/integracii/sinkhronnoe-vzaimodeistvie/formaty-dannykh.md)
-  * [Асинхронное взаимодействие](hard-skills/integracii/asinkhronnoe-vzaimodeistvie.md)
-  * [Sync vs Async](hard-skills/integracii/sync-vs-async.md)
 * [📍 Базы данных](hard-skills/bazy-dannykh/README.md)
   * [Реляционные](hard-skills/bazy-dannykh/relyacionnye/README.md)
     * [Нормальные формы](hard-skills/bazy-dannykh/relyacionnye/normalnye-formy.md)
@@ -39,6 +33,12 @@
     * [SQL](hard-skills/bazy-dannykh/relyacionnye/sql.md)
   * [Нереляционные](hard-skills/bazy-dannykh/nerelyacionnye/README.md)
     * [Колоночные](hard-skills/bazy-dannykh/nerelyacionnye/kolonochnye.md)
+* [📍 Интеграции](hard-skills/integracii/README.md)
+  * [Синхронное взаимодействие](hard-skills/integracii/sinkhronnoe-vzaimodeistvie/README.md)
+    * [REST vs SOAP](hard-skills/integracii/sinkhronnoe-vzaimodeistvie/rest-vs-soap.md)
+    * [Форматы данных](hard-skills/integracii/sinkhronnoe-vzaimodeistvie/formaty-dannykh.md)
+  * [Асинхронное взаимодействие](hard-skills/integracii/asinkhronnoe-vzaimodeistvie.md)
+  * [Sync vs Async](hard-skills/integracii/sync-vs-async.md)
 * [📍 Проектирование](hard-skills/proektirovanie/README.md)
   * [Диаграммы](hard-skills/proektirovanie/diagrammy/README.md)
     * [BPMN](hard-skills/proektirovanie/diagrammy/bpmn.md)
@@ -73,3 +73,4 @@
   * [BA vs SA](drugoe/ba-vs-sa.md)
   * [Контакты](drugoe/kontakty.md)
   * [Вопросы](drugoe/voprosy.md)
+  * [Общие вопросы на собеседовании](drugoe/obshie-voprosy-na-sobesedovanii.md)

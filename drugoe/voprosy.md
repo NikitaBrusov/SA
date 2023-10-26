@@ -1,5 +1,11 @@
 # Вопросы
 
+**ВАЖНО!!!**
+
+[**https://habr.com/ru/articles/694478/**](https://habr.com/ru/articles/694478/)
+
+
+
 **I Общие вопросы**
 
 **II Требования**

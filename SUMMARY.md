@@ -33,6 +33,7 @@
     * [SQL](hard-skills/bazy-dannykh/relyacionnye/sql.md)
   * [Нереляционные](hard-skills/bazy-dannykh/nerelyacionnye/README.md)
     * [Колоночные](hard-skills/bazy-dannykh/nerelyacionnye/kolonochnye.md)
+  * [Индексы в таблицах](hard-skills/bazy-dannykh/indeksy-v-tablicakh.md)
 * [📍 Интеграции](hard-skills/integracii/README.md)
   * [Синхронное взаимодействие](hard-skills/integracii/sinkhronnoe-vzaimodeistvie/README.md)
     * [REST vs SOAP](hard-skills/integracii/sinkhronnoe-vzaimodeistvie/rest-vs-soap.md)

@@ -14,6 +14,15 @@
 * Создавать представления в базе данных
 * Устанавливать разрешения для таблиц, процедур и представлений
 
+Язык структурированных запросов делится на несколько частей (группы операторов) и позволяет:
+
+* определять данные (DDL[^1]),
+* манипулировать ими (DML[^2]),
+* контролировать доступ к данным (DCL[^3])
+* и управлять транзакциями (TCL[^4]).
+
+Подробнее остановимся на DML-командами с которыми, по большей степени приходиться работать аналитику.&#x20;
+
 ## SELECT
 
 ```sql
@@ -70,7 +79,6 @@ GROUP BY field
 // AVG
 // Среднее значение по полю field
 SELECT AVG(field) FROM table
-
 // Среднее значение по полю field, группируя по field2
 SELECT field2, AVG(field) FROM table
 GROUP BY field2
@@ -90,33 +98,120 @@ SELECT MIN(field) FROM table
 
 ## LIMIT/TOP
 
-```sql
-// Вывести топ записей
+<pre class="language-sql"><code class="lang-sql"><strong>// PostgreSQL и другие
+</strong><strong>// Вывести топ 10 записей
+</strong>SELECT * FROM table
+LIMIT 10
+// Вывести записи с 5 по 10
 SELECT * FROM table
-```
+LIMIT 5 OFFSET 4
+
+// MS SQL
+// Вывести топ 10 записей
+SELECT TOP 10 * FROM table
+</code></pre>
 
 ## JOIN
 
+<pre class="language-sql" data-full-width="true"><code class="lang-sql">//Внутренее соединение 
+<strong>//Получение данных, относящихся как к левой, так и к правой таблице.
+</strong><strong>//INNER JOIN или просто JOIN
+</strong>SELECT * FROM table1 t1
+JOIN table2 t2 ON t1.field1 = t2.field1
+
+//Внешнее соединение
+//Получение всех данных из левой таблицы, соединённых с соответствующими данными из правой.
+//LEFT JOIN
+SELECT * FROM table1 t1
+<strong>LEFT JOIN table2 t2 ON t1.field1 = t2.field1
+</strong>//Получение всех данных из правой таблицы, соединённых с соответствующими данными из левой.
+//RIGHT JOIN
+SELECT * FROM table1 t1
+RIGHT JOIN table2 t2 ON t1.field1 = t2.field1
+//Получение всех данных, относящихся к левой и правой таблицам, а также их внутреннему соединению.
+//FULL OUTER JOIN
+SELECT * FROM table1 t1
+FULL OUTER JOIN table2 t2 ON t1.field1 = t2.field1
+</code></pre>
+
+## Подзапросы
+
 ```sql
-LEFT/RIGHT
-FULL
+//Пример1
+SELECT field1, (SELECT field1 FROM table2) FROM table1
+WHERE field1 = 'value'
+
+//Пример2
+SELECT field1 FROM table1
+WHERE filed1 = (SELECT field2 FROM table2 WHERE field2 = 'value')
 ```
 
-## DELETE / UPDATE / INSERTE
+## UNION
 
 ```sql
-// Some code
+//Объедение запросов. Без повторов одинаковых строк. 
+SELECT * FROM table1
+UNION
+SELECT * FROM table2
+
+//Объедение запросов. C повторами одинаковых строк. 
+SELECT * FROM table1
+UNION ALL
+SELECT * FROM table2
 ```
 
+## INSERT/UPDATE/DELETE|TRUNCATE
+
+{% code fullWidth="true" %}
+```sql
+//Вставить новую запись в таблицу
+INSERT INTO table1 (field1, field2)
+VALUES ('value_field1', 'value_field2')
+
+//Изменить старую запись в таблице
+UPDATE table1
+SET field2 = 'value_field2'
+WHERE field1 = 'value'
+
+//Удалить конкретную запись в таблице
+DELETE FROM table1
+WHERE field1 = 'value'
+//Удалить все записи в таблице (записи будут удаляться по одной, пока таблица польностью не очистится)
+DELETE FROM table1
+//Удалить все записи в таблице (удалится вся таблица со всеми записями, после чего создастся новая пустая)
+TRUNCATE FROM table1
+```
+{% endcode %}
 
 
-Язык структурированных запросов делится на несколько частей (группы операторов) и позволяет:
-
-* определять данные (DDL),
-* манипулировать ими (DML),
-* контролировать доступ к данным (DCL)
-* и управлять транзакциями (TCL).
 
 
 
-Источник: [https://sql-academy.org/ru/guide/basic-syntax-sql-query](https://sql-academy.org/ru/guide/basic-syntax-sql-query)
+
+
+Полезное: &#x20;
+
+* [https://sql-academy.org/ru/guide/basic-syntax-sql-query](https://sql-academy.org/ru/guide/basic-syntax-sql-query)
+* [https://sky.pro/media/gruppy-operatorov-sql/](https://sky.pro/media/gruppy-operatorov-sql/)
+
+[^1]: DDL, или Data Definition Language — это группа команд, которые используются для создания и изменения структуры объектов базы данных: таблиц, представлений, схем и индексов.
+
+
+
+    Примеры команд: CREATE, ALTER, DROP.
+
+[^2]: DML, или Data Manipulation Language — это группа операторов, которые позволяют получать и изменять записи, присутствующие в таблице.&#x20;
+
+
+
+    Примеры команд: SELECT и тд
+
+[^3]: DCL, или Data Control Language — это команды SQL, которые используют для предоставления и отзыва привилегий пользователя базы данных. При этом пользователь не может откатить изменения. &#x20;
+
+
+
+    Примеры команд: GRANT и REVOKE
+
+[^4]: TCL, или Transaction Control Language — одни из наиболее популярных команд SQL. Их используют для обеспечения согласованности базы данных и для управления транзакциями. \
+    \
+    Примеры команд: BEGIN/COMMIT, ROLLBACK

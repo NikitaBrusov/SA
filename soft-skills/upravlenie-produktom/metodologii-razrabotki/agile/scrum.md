@@ -1,3 +1,7 @@
+---
+description: популярно, быстро, эффективно
+---
+
 # Scrum
 
 <figure><img src="../../../../.gitbook/assets/Scrum-2x.png" alt="" width="563"><figcaption><p>Цикл разработки по Scrum</p></figcaption></figure>

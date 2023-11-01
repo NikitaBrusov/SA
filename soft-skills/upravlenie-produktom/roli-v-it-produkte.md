@@ -1,3 +1,7 @@
+---
+description: Кто и где Я
+---
+
 # Роли в IT продукте
 
 <figure><img src="../../.gitbook/assets/Mind Map.jpg" alt=""><figcaption><p>Роли в IT продукте</p></figcaption></figure>

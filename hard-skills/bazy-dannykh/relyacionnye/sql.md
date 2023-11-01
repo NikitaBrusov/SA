@@ -98,9 +98,10 @@ SELECT MIN(field) FROM table
 
 ## LIMIT/TOP
 
-<pre class="language-sql"><code class="lang-sql"><strong>// PostgreSQL и другие
-</strong><strong>// Вывести топ 10 записей
-</strong>SELECT * FROM table
+```sql
+// PostgreSQL и другие
+// Вывести топ 10 записей
+SELECT * FROM table
 LIMIT 10
 // Вывести записи с 5 по 10
 SELECT * FROM table
@@ -109,22 +110,24 @@ LIMIT 5 OFFSET 4
 // MS SQL
 // Вывести топ 10 записей
 SELECT TOP 10 * FROM table
-</code></pre>
+```
 
 ## JOIN
 
-<pre class="language-sql" data-full-width="true"><code class="lang-sql">//Внутренее соединение 
-<strong>//Получение данных, относящихся как к левой, так и к правой таблице.
-</strong><strong>//INNER JOIN или просто JOIN
-</strong>SELECT * FROM table1 t1
+{% code fullWidth="true" %}
+```sql
+//Внутренее соединение 
+//Получение данных, относящихся как к левой, так и к правой таблице.
+//INNER JOIN или просто JOIN
+SELECT * FROM table1 t1
 JOIN table2 t2 ON t1.field1 = t2.field1
 
 //Внешнее соединение
 //Получение всех данных из левой таблицы, соединённых с соответствующими данными из правой.
 //LEFT JOIN
 SELECT * FROM table1 t1
-<strong>LEFT JOIN table2 t2 ON t1.field1 = t2.field1
-</strong>//Получение всех данных из правой таблицы, соединённых с соответствующими данными из левой.
+LEFT JOIN table2 t2 ON t1.field1 = t2.field1
+//Получение всех данных из правой таблицы, соединённых с соответствующими данными из левой.
 //RIGHT JOIN
 SELECT * FROM table1 t1
 RIGHT JOIN table2 t2 ON t1.field1 = t2.field1
@@ -132,7 +135,8 @@ RIGHT JOIN table2 t2 ON t1.field1 = t2.field1
 //FULL OUTER JOIN
 SELECT * FROM table1 t1
 FULL OUTER JOIN table2 t2 ON t1.field1 = t2.field1
-</code></pre>
+```
+{% endcode %}
 
 ## Подзапросы
 

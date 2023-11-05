@@ -8,8 +8,8 @@
 
 Возвращаясь к главе:
 
-{% content-ref url="../../../soft-skills/upravlenie-produktom/roli-v-it-produkte.md" %}
-[roli-v-it-produkte.md](../../../soft-skills/upravlenie-produktom/roli-v-it-produkte.md)
+{% content-ref url="../../../soft-skills/upravlenie-produktom/roli-v-it-produkte/" %}
+[roli-v-it-produkte](../../../soft-skills/upravlenie-produktom/roli-v-it-produkte/)
 {% endcontent-ref %}
 
 На самом деле после разработки продукта внутри команды, этот продукт нужно донести до конечного пользователя (заказчика), иными словами развернуть приложение, чтобы оно стало доступно всем. Как раз тут и появляется DevOps.

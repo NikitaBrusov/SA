@@ -5,7 +5,10 @@
 ## Soft skills
 
 * [📍 Управление продуктом](soft-skills/upravlenie-produktom/README.md)
-  * [Роли в IT продукте](soft-skills/upravlenie-produktom/roli-v-it-produkte.md)
+  * [Роли в IT продукте](soft-skills/upravlenie-produktom/roli-v-it-produkte/README.md)
+    * [Системный аналитик (SA)](soft-skills/upravlenie-produktom/roli-v-it-produkte/sistemnyi-analitik-sa.md)
+    * [Бизнес-аналитик (BA)](soft-skills/upravlenie-produktom/roli-v-it-produkte/biznes-analitik-ba.md)
+    * [SA vs BA](soft-skills/upravlenie-produktom/roli-v-it-produkte/sa-vs-ba.md)
   * [Жизненный цикл продукта](soft-skills/upravlenie-produktom/zhiznennyi-cikl-produkta.md)
   * [Методологии разработки](soft-skills/upravlenie-produktom/metodologii-razrabotki/README.md)
     * [Waterfall](soft-skills/upravlenie-produktom/metodologii-razrabotki/waterfall.md)
@@ -85,7 +88,6 @@
 ***
 
 * [Другое](drugoe/README.md)
-  * [✍ BA vs SA](drugoe/ba-vs-sa.md)
   * [Общие вопросы на собеседовании](drugoe/obshie-voprosy-na-sobesedovanii.md)
   * [Литература](drugoe/literatura.md)
   * [Контакты](drugoe/kontakty.md)

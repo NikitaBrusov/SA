@@ -11,7 +11,7 @@
 2. Круто про требования: [https://tproger.ru/articles/vyjavlenie-i-sbor-trebovanij-k-po-ultimate-guide](https://tproger.ru/articles/vyjavlenie-i-sbor-trebovanij-k-po-ultimate-guide)
 3. Цикл статей по СА: [https://pikabu.ru/series/karera\_v\_it\_sistemnyiy\_analitik\_7199](https://pikabu.ru/series/karera\_v\_it\_sistemnyiy\_analitik\_7199)
 4. Ошибки на собеседованиях: [https://habr.com/ru/articles/694478/](https://habr.com/ru/articles/694478/)
-5. Роудмат для СА: [https://habr.com/ru/articles/692580/](https://habr.com/ru/articles/692580/)
+5. Роудмап для СА: [https://habr.com/ru/articles/692580/](https://habr.com/ru/articles/692580/)
 
 Статьи с вопросам на собеседованиях:
 

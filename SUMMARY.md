@@ -59,6 +59,7 @@
       * [🔒 Middle+](hard-skills/proektirovanie/notacii-i-diagrammy/uml/middle+.md)
     * [BPMN](hard-skills/proektirovanie/notacii-i-diagrammy/bpmn/README.md)
       * [Основные элементы](hard-skills/proektirovanie/notacii-i-diagrammy/bpmn/osnovnye-elementy.md)
+      * [Old](hard-skills/proektirovanie/notacii-i-diagrammy/bpmn/old.md)
     * [BPMN vs UML](hard-skills/proektirovanie/notacii-i-diagrammy/bpmn-vs-uml.md)
     * [ERD](hard-skills/proektirovanie/notacii-i-diagrammy/erd.md)
   * [📎 Макеты](hard-skills/proektirovanie/makety/README.md)

@@ -10,9 +10,25 @@ UML — это объектно-ориентированный язык моде
 
 UML в первую очередь предназначен для людей, которые моделируют и создают программные системы, такие как веб-приложения и облачные среды. UML позволяет документировать проект, который можно реализовать на различных языках программирования. BPMN ориентирован на разработку моделей процессов «как есть» и «как будет» и используется бизнес-аналитиками, ИТ-разработчиками и деловыми людьми. Он используется не только для проектирования и совершенствования новых систем, но и позволяет улучшить ручные процессы.&#x20;
 
+### BPMN против UML: резюме&#x20;
+
+Основное различие между UML и BPMN заключается в перспективе: UML объектно-ориентирован, а BPMN — процессно-ориентирован. Это делает BPMN широко применимым как для ИТ, так и для бизнеса, в то время как UML больше подходит для разработки ИТ-систем и менее подходит для улучшения процессов.&#x20;
+
+
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+
+
 
 
 Источники:&#x20;
 
 * [https://www.inveskills.com/bpmn/bpmn-vs-uml/](https://www.inveskills.com/bpmn/bpmn-vs-uml/)
-* [https://investim.guru/stati/bpmn-i-uml-razlichiya-i-sravnenie](https://investim.guru/stati/bpmn-i-uml-razlichiya-i-sravnenie)
+* [https://investim.guru/stati/bpmn-i-uml-razlichiya-i-sravnenie](https://investim.guru/stati/bpmn-i-uml-razlichiya-i-sravnenie) (читать!!! + таблица)
+* [https://askanydifference.com/ru/difference-between-uml-and-bpmn-with-table/](https://askanydifference.com/ru/difference-between-uml-and-bpmn-with-table/) (можно прочитать)
+* [https://www.directum.ru/blog-post/notacija\_bpmn\_\_pljusy\_minusy\_i\_oblast\_primenenija](https://www.directum.ru/blog-post/notacija\_bpmn\_\_pljusy\_minusy\_i\_oblast\_primenenija) (нужно глянуть)

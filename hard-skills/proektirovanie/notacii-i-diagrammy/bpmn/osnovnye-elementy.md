@@ -6,11 +6,11 @@
 {% endtab %}
 
 {% tab title="Event" %}
-<table data-header-hidden><thead><tr><th width="119"></th><th width="181"></th><th width="204"></th><th></th></tr></thead><tbody><tr><td>Событие (Event)</td><td></td><td>События — показывает состояние, которое влияет на дальнейшее течение бизнес-процесса или контролирует его</td><td></td></tr><tr><td></td><td>Стартовое событие</td><td></td><td></td></tr><tr><td></td><td>Промежуточное событие</td><td></td><td></td></tr><tr><td></td><td>Завершающее событие</td><td></td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="120"></th><th width="166"></th><th width="221"></th><th></th></tr></thead><tbody><tr><td>Событие (Event)</td><td></td><td>События — показывает состояние, которое влияет на дальнейшее течение бизнес-процесса или контролирует его</td><td></td></tr><tr><td></td><td>Стартовое событие</td><td>это событие, которое обозначает начало процесса.</td><td><img src="../../../../.gitbook/assets/image (19).png" alt="" data-size="original"></td></tr><tr><td></td><td>Промежуточное событие</td><td>это событие, которое происходит в середине процесса и может вызывать изменение процесса.</td><td><img src="../../../../.gitbook/assets/image (18).png" alt="" data-size="original"></td></tr><tr><td></td><td>Завершающее событие</td><td>это событие, которое означает завершение процесса.</td><td><img src="../../../../.gitbook/assets/image (17).png" alt="" data-size="original"></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Gateway" %}
-<table data-header-hidden><thead><tr><th width="128"></th><th width="153"></th><th width="234"></th><th></th></tr></thead><tbody><tr><td>Шлюз (Gateway)</td><td></td><td>Определяют условия и маршруты, которые регулируют последовательность выполнения задач в бизнес-процессе.</td><td></td></tr><tr><td></td><td>Параллельный шлюз</td><td>Означает, что два процесса исполняются одновременно. Читается как «И»</td><td></td></tr><tr><td></td><td>Эксклюзивный шлюз</td><td>Используют, чтобы обозначить ветвление потока управления на несколько альтернативных потоков, когда процесс зависит от выполнения условия. Читается как «ИЛИ»</td><td></td></tr><tr><td></td><td>Неэксклюзивный шлюз</td><td>Применяют, чтобы показать ветвление потока управления на несколько других, когда процесс зависит от выполнения условий. Читается как «И/ИЛИ»</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="128"></th><th width="153"></th><th width="234"></th><th></th></tr></thead><tbody><tr><td>Шлюз (Gateway)</td><td></td><td>Определяют условия и маршруты, которые регулируют последовательность выполнения задач в бизнес-процессе.</td><td></td></tr><tr><td></td><td>Параллельный шлюз</td><td>Означает, что два процесса исполняются одновременно. Читается как «И»</td><td><img src="../../../../.gitbook/assets/image (20).png" alt="" data-size="original"></td></tr><tr><td></td><td>Эксклюзивный шлюз</td><td>Используют, чтобы обозначить ветвление потока управления на несколько альтернативных потоков, когда процесс зависит от выполнения условия. Читается как «ИЛИ»</td><td><img src="../../../../.gitbook/assets/image (21).png" alt="" data-size="original"></td></tr><tr><td></td><td>Комплексный шлюз</td><td>Применяют, чтобы показать ветвление потока управления на несколько других, когда процесс зависит от выполнения условий. Читается как «И/ИЛИ»</td><td><img src="../../../../.gitbook/assets/image (22).png" alt="" data-size="original"></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Data" %}
@@ -18,7 +18,7 @@
 {% endtab %}
 
 {% tab title="Flow" %}
-<table data-header-hidden><thead><tr><th width="97"></th><th width="153"></th><th width="234"></th><th></th></tr></thead><tbody><tr><td>Поток </td><td></td><td></td><td></td></tr><tr><td></td><td>Поток управления</td><td>Показывает, в каком порядке выполняется процесс. Эти стрелки связывают между собой задачи, события и шлюзы.</td><td></td></tr><tr><td></td><td>Поток сообщений</td><td>Показывает передачу сообщений или объектов из одного процесса в другой. В нашем примере так показана связь между подготовкой заявки на подбор сотрудника и принятием этой заявки в работу.</td><td></td></tr><tr><td></td><td>Ассоциация</td><td>Показывает связи объектов данных и баз данных с процессами.</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="98"></th><th width="129"></th><th width="234"></th><th></th></tr></thead><tbody><tr><td>Поток </td><td></td><td></td><td></td></tr><tr><td></td><td>Поток управления</td><td>Показывает, в каком порядке выполняется процесс. Эти стрелки связывают между собой задачи, события и шлюзы.</td><td></td></tr><tr><td></td><td>Поток сообщений</td><td>Показывает передачу сообщений или объектов из одного процесса в другой. В нашем примере так показана связь между подготовкой заявки на подбор сотрудника и принятием этой заявки в работу.</td><td></td></tr><tr><td></td><td>Ассоциация</td><td>Показывает связи объектов данных и баз данных с процессами.</td><td></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Pool/Lanes" %}
@@ -32,4 +32,6 @@
 
 
 
-Источник: [https://www.businessstudio.ru/wiki/docs/current/doku.php/ru/csdesign/bpmodeling/bpmn\_notation](https://www.businessstudio.ru/wiki/docs/current/doku.php/ru/csdesign/bpmodeling/bpmn\_notation)
+Источник: [ttps://www.businessstudio.ru/wiki/docs/current/doku.php/ru/csdesign/bpmodeling/bpmn\_notation](https://www.businessstudio.ru/wiki/docs/current/doku.php/ru/csdesign/bpmodeling/bpmn\_notation)
+
+[https://market.cnews.ru/articles/2023-05-25\_6\_osnovnyh\_elementov\_bpmn](https://market.cnews.ru/articles/2023-05-25\_6\_osnovnyh\_elementov\_bpmn)

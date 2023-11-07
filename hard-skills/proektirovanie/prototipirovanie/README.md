@@ -19,10 +19,12 @@
 * **Wireframe** – это черно-белый подробный план страницы сайта с расположением элементов UI: кнопки, чек-боксы, картинки, текст.
 * **Mockup** – цветовой вариант вайрфрейма для уточнения взаимодействия с пользователем по карте клиентских путешествий (CJM, Customer Journey Map).
 
+Поговорим детальней про wireframe и инструменты, с помощью которых их можно делать.
+
 ## Инструменты прототипирования
 
-* Figma (для [Low Fidelity](#user-content-fn-1)[^1])
-* Axure (для [High Fidelity](#user-content-fn-2)[^2])
+* Figma (для [Low Fidelity](#user-content-fn-1)[^1] Wireframe)
+* Axure (для [High Fidelity](#user-content-fn-2)[^2] Wireframe)
 
 
 

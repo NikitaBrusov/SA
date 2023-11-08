@@ -10,10 +10,12 @@ RabbitMQ более простой в установке и настройке, 
 
 
 
-|   | Kafka | RebbitMQ |
-| - | ----- | -------- |
-|   |       |          |
-|   |       |          |
-|   |       |          |
+<table data-full-width="true"><thead><tr><th width="229.33333333333331"></th><th>Kafka</th><th>RebbitMQ</th></tr></thead><tbody><tr><td>Простота установки</td><td>-</td><td>+</td></tr><tr><td>Объем данных </td><td>Большой, сотни тысяч сообщений в секунду</td><td>Небольшой</td></tr><tr><td>Обмен информацией</td><td>Pub-Sub</td><td>Pub-Sub и Point-to-Point</td></tr><tr><td>Гарантия доставки</td><td>At most once / At least once / Exactly once</td><td>At most once / At least once</td></tr><tr><td>Повышенная отказоустойчивость</td><td>+</td><td>-</td></tr><tr><td>Процесс распределения сообщений на стороне брокера</td><td>-</td><td>+</td></tr></tbody></table>
+
+
+
+
+
+
 
 Источник: [https://habr.com/ru/companies/innotech/articles/698838/](https://habr.com/ru/companies/innotech/articles/698838/)

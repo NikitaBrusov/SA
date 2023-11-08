@@ -1,4 +1,10 @@
+---
+description: «Тупой брокер, умный потребитель»
+---
+
 # Kafka
+
+<figure><img src="../../../.gitbook/assets/Sync (2).jpg" alt=""><figcaption><p>Схема работы брокера сообщений</p></figcaption></figure>
 
 Apache Kafka программный Pub-Sub брокер с открытым исходным кодом. Помимо гарантий доставки At most once и At least once, поддерживает Exactly once (Строго один раз). Обычно используется в больших проектах, так как обладает большой пропускной способностью и отказоустойчивостью, превосходит по данным характеристикам RabbitMQ и многие другие брокеры. При этом имеет высокий порог вхождения, требователен к ресурсам.
 
@@ -12,5 +18,8 @@ Kafka можно представить, как распределённый, р
 
 
 
-Источник: [https://habr.com/ru/companies/innotech/articles/698838/](https://habr.com/ru/companies/innotech/articles/698838/)
 
+
+
+
+Источник: [https://habr.com/ru/companies/innotech/articles/698838/](https://habr.com/ru/companies/innotech/articles/698838/)

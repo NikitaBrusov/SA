@@ -1,4 +1,4 @@
 # 🔒 Middle+
 
-* RPC&#x20;
-* WebsoketAPI
+* gRPC API
+* Websocket API

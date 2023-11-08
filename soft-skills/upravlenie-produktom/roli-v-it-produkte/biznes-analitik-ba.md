@@ -39,7 +39,7 @@
 
 По данным [Хабр.Карьера](https://career.habr.com/salaries?qualification=All\&spec\_aliases%5B%5D=business\_analyst\&isShared=true) зарплата Бизнес-аналитиков по всей России в 2023 году распределяется следующим образом:
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Зарплата Бизнес-аналитиков в России 2023</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Зарплата Бизнес-аналитиков в России 2023</p></figcaption></figure>
 
 
 

@@ -63,7 +63,7 @@
   * [📎 Прототипирование](hard-skills/proektirovanie/prototipirovanie/README.md)
     * [Figma vs Axure](hard-skills/proektirovanie/prototipirovanie/figma-vs-axure.md)
 * [📎 DevOps](hard-skills/devops/README.md)
-  * [Deploy process](hard-skills/devops/deploy-process/README.md)
+  * [✍ Deploy process](hard-skills/devops/deploy-process/README.md)
     * [CI/CD](hard-skills/devops/deploy-process/ci-cd.md)
     * [Автоматизация](hard-skills/devops/deploy-process/avtomatizaciya/README.md)
       * [🔒 Kubernetes](hard-skills/devops/deploy-process/avtomatizaciya/kubernetes/README.md)
@@ -89,5 +89,6 @@
 
 * [Другое](drugoe/README.md)
   * [Общие вопросы на собеседовании](drugoe/obshie-voprosy-na-sobesedovanii.md)
+  * [Советы по составлению резюме](drugoe/sovety-po-sostavleniyu-rezyume.md)
   * [Литература](drugoe/literatura.md)
   * [Контакты](drugoe/kontakty.md)

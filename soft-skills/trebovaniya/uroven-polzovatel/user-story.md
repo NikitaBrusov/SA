@@ -20,3 +20,11 @@ Xочу \[взбить молоко] \
 хочу \[иметь возможность наливать воду в кофе-машину]\
 Когда \[открываю крышку резервуара с водой]\
 Чтобы \[кофе-машина могла функционировать]
+
+
+
+
+
+
+
+Почитать: [https://habr.com/ru/companies/deutschetelekomitsolutions/articles/598625/](https://habr.com/ru/companies/deutschetelekomitsolutions/articles/598625/)

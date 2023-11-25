@@ -1,3 +1,7 @@
+---
+description: Kubernetes (K8s) – автоматизация Docker
+---
+
 # Kubernetes
 
 {% hint style="info" %}

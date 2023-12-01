@@ -1,6 +1,8 @@
 # Нереляционные
 
+{% hint style="info" %}
 **Нереляционная база данных** — это база данных, в которой в отличие от большинства традиционных систем баз данных не используется табличная схема строк и столбцов. В этих базах данных применяется модель хранения, оптимизированная под конкретные требования типа хранимых данных. Например, данные могут храниться как простые пары "ключ — значение", документы JSON или граф, состоящий из ребер и вершин.
+{% endhint %}
 
 ## Особенности NoSQL <a href="#osobennosti-nosql" id="osobennosti-nosql"></a>
 
@@ -52,4 +54,3 @@
 Подробнее:&#x20;
 
 * [https://learn.microsoft.com/ru-ru/azure/architecture/data-guide/big-data/non-relational-data](https://learn.microsoft.com/ru-ru/azure/architecture/data-guide/big-data/non-relational-data)
-

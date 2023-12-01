@@ -24,6 +24,10 @@
 
 Колоночные таблицы обычно хорошо подходят для аналитических и OLAP[^1] задач, где требуется обработка больших объемов данных.
 
+{% content-ref url="../middle+/khranenie-i-analiz-dannykh/olap/" %}
+[olap](../middle+/khranenie-i-analiz-dannykh/olap/)
+{% endcontent-ref %}
+
 
 
 

@@ -1,6 +1,8 @@
 # ETL
 
+{% hint style="info" %}
 **ETL** (Extract, Transform, Load) — это процесс извлечения данных из источников, их трансформации и загрузки в целевую систему или хранилище данных. ETL является ключевым компонентом при построении и обновлении хранилищ данных или аналитических систем.
+{% endhint %}
 
 Вот более подробное описание каждого шага в процессе ETL:
 
@@ -17,3 +19,8 @@
 
 
 Источник: [https://testengineer.ru/etl/](https://testengineer.ru/etl/)
+
+Почитать:&#x20;
+
+* [https://habr.com/ru/articles/248231/](https://habr.com/ru/articles/248231/)
+* [https://practicum.yandex.ru/blog/chto-takoe-etl/](https://practicum.yandex.ru/blog/chto-takoe-etl/)

@@ -10,7 +10,7 @@ description: качественные характеристики (как?)
 
 Нефункциональные требования складываются из трех частей:
 
-<figure><img src="../../../.gitbook/assets/требования.jpg" alt="" width="563"><figcaption><p>Нефункциональные требования</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/требования.jpg" alt="" width="563"><figcaption><p>Нефункциональные требования</p></figcaption></figure>
 
 ## Атрибуты качества
 

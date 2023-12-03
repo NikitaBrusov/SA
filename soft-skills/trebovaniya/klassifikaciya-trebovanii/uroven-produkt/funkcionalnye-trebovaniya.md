@@ -14,7 +14,7 @@ description: количественные характеристики (что?)
 
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/требования (1).jpg" alt="" width="563"><figcaption><p>Функциональные требования</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/требования (1).jpg" alt="" width="563"><figcaption><p>Функциональные требования</p></figcaption></figure>
 
 ## Системные требования
 

@@ -32,8 +32,8 @@
 
 * **Варианты использования**: овалы горизонтальной формы, обозначающие различные варианты использования, которые может иметь пользователь.
 
-{% content-ref url="../../../../soft-skills/trebovaniya/uroven-polzovatel/use-case.md" %}
-[use-case.md](../../../../soft-skills/trebovaniya/uroven-polzovatel/use-case.md)
+{% content-ref url="../../../../soft-skills/trebovaniya/klassifikaciya-trebovanii/uroven-polzovatel/use-case.md" %}
+[use-case.md](../../../../soft-skills/trebovaniya/klassifikaciya-trebovanii/uroven-polzovatel/use-case.md)
 {% endcontent-ref %}
 
 * **Ассоциация:** линия между актерами и вариантами использования. В сложных диаграммах важно знать, какие актеры с какими вариантами использования связаны.

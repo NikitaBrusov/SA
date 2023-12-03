@@ -10,8 +10,8 @@
 
 Подробнее в главе про SQL:
 
-{% content-ref url="sql.md" %}
-[sql.md](sql.md)
+{% content-ref url="sql/" %}
+[sql](sql/)
 {% endcontent-ref %}
 
 ## **Транзакция. ACID**

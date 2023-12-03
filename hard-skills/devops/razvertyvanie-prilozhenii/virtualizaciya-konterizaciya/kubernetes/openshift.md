@@ -1,4 +1,4 @@
-# Openshift
+# ✍ Openshift
 
 Почитать:
 

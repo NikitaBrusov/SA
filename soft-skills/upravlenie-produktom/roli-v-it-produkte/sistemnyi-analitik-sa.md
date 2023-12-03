@@ -41,7 +41,7 @@ description: '"Developer should not think - this is the analysts''s job"'
 
 ## Зарплата
 
-По данным [Хабр.Карьера](https://career.habr.com/salaries?spec\_aliases\[]=systems\_analyst\&isShared=true) зарплата Системных аналитиков по всей России в 2023 году распределяется следующим образом:
+По данным [Хабр.Карьера](https://career.habr.com/salaries?spec\_aliases\[]=systems\_analyst\&isShared=true) зарплата Системных аналитиков в России в 2023 году распределяется следующим образом:
 
 <figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Зарплата Системных аналитиков в России 2023</p></figcaption></figure>
 

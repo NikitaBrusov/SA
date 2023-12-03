@@ -62,7 +62,7 @@
       * [Диаграмма классов](hard-skills/proektirovanie/notacii-i-diagrammy/uml/diagramma-klassov.md)
       * [Диаграмма последовательности](hard-skills/proektirovanie/notacii-i-diagrammy/uml/diagramma-posledovatelnosti/README.md)
         * [Фреймы](hard-skills/proektirovanie/notacii-i-diagrammy/uml/diagramma-posledovatelnosti/freimy.md)
-      * [✍ Диаграмма прецедентов (use case)](hard-skills/proektirovanie/notacii-i-diagrammy/uml/diagramma-precedentov-use-case.md)
+      * [Диаграмма прецедентов (use case)](hard-skills/proektirovanie/notacii-i-diagrammy/uml/diagramma-precedentov-use-case.md)
       * [🔒 Middle+](hard-skills/proektirovanie/notacii-i-diagrammy/uml/middle+/README.md)
         * [Диаграмма деятельности/активности](hard-skills/proektirovanie/notacii-i-diagrammy/uml/middle+/diagramma-deyatelnosti-aktivnosti.md)
         * [Диаграмма состояний](hard-skills/proektirovanie/notacii-i-diagrammy/uml/middle+/diagramma-sostoyanii.md)

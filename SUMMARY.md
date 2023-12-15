@@ -49,7 +49,7 @@
       * [BI-аналитика](hard-skills/bazy-dannykh/middle+/khranenie-i-analiz-dannykh/bi-analitika.md)
 * [📍 Интеграции](hard-skills/integracii/README.md)
   * [Форматы данных](hard-skills/integracii/formaty-dannykh/README.md)
-    * [JSON + JSON Schema](hard-skills/integracii/formaty-dannykh/json-+-json-schema/README.md)
+    * [🔒 JSON + JSON Schema](hard-skills/integracii/formaty-dannykh/json-+-json-schema/README.md)
       * [🔒 AVRO](hard-skills/integracii/formaty-dannykh/json-+-json-schema/avro.md)
     * [🔒 JSON vs XML](hard-skills/integracii/formaty-dannykh/json-vs-xml.md)
   * [Синхронное взаимодействие](hard-skills/integracii/sinkhronnoe-vzaimodeistvie/README.md)

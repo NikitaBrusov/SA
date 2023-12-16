@@ -1,4 +1,4 @@
-# 🔒 JSON + JSON Schema
+# ✍ JSON + JSON Schema
 
 {% hint style="info" %}
 JSON (JavaScript Object Notation) — текстовый формат обмена данными, основанный на JavaScript.

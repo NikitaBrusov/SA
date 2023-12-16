@@ -12,7 +12,7 @@
   * AS IS - как система работает сейчас&#x20;
   * TO BE - как система должна работать
 * При необходимости, добавить [макеты](../../hard-skills/proektirovanie/prototipirovanie/), полученные от дизайнера
-* При необходимости, добавить информацию про логирование / [мониторинг](../../hard-skills/devops-for-sa/monitoring-i-logirovanie/)
+* При необходимости, добавить информацию про [логирование / мониторинг](../../hard-skills/devops-for-sa/monitoring-i-logirovanie/)
 * Оформить ТЗ в итоговый документ. Обычно для этого используется:
   * Confluence
   * Word or etc.

@@ -1,7 +1,7 @@
 # DWH
 
 {% hint style="info" %}
-Data Warehouse (DWH) — это единое корпоративное хранилище архивных данных из разных источников. Цель Data Warehouse — обеспечить компанию возможностью принимать верные решения в ключе управления бизнесом на основе целостной информационной картины.
+**Data Warehouse (DWH)** — это единое корпоративное хранилище архивных данных из разных источников. Цель Data Warehouse — обеспечить компанию возможностью принимать верные решения в ключе управления бизнесом на основе целостной информационной картины.
 {% endhint %}
 
 В DWH данные из всех СУБД предприятия аккумулируют и очищают, формируя их единый источник. Благодаря этому Data Warehouse содержит самую точную информацию обо всех аспектах деятельности предприятия за годы работы.
@@ -97,6 +97,6 @@ Data Warehouse (DWH) — это единое корпоративное хран
 
 Источник:
 
-* &#x20;[https://cloud.yandex.ru/blog/posts/2022/06/data-warehouse](https://cloud.yandex.ru/blog/posts/2022/06/data-warehouse)
+* [https://cloud.yandex.ru/blog/posts/2022/06/data-warehouse](https://cloud.yandex.ru/blog/posts/2022/06/data-warehouse)
 * [https://selectel.ru/blog/data-warehouse/](https://selectel.ru/blog/data-warehouse/)
 * [https://ivan-shamaev.ru/data-engineering-etl-pipeline-data-warehouse-datalake/#i-3](https://ivan-shamaev.ru/data-engineering-etl-pipeline-data-warehouse-datalake/#i-3)

@@ -4,9 +4,11 @@ description: реальная модель
 
 # TCP/IP
 
-<figure><img src="../../../.gitbook/assets/osi (2).jpg" alt=""><figcaption><p>TCP/IP</p></figcaption></figure>
-
+{% hint style="info" %}
 **Модель TCP/IP** (Transmission Control Protocol/Internet Protocol) — это сетевая модель, которая описывает принципы передачи данных в компьютерных сетях. Она является основой для организации и взаимодействия сетей в Интернете.
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/osi (2).jpg" alt=""><figcaption><p>TCP/IP</p></figcaption></figure>
 
 Модель TCP/IP состоит из четырех основных уровней:
 
@@ -22,4 +24,3 @@ description: реальная модель
 
 
 Источник: [https://testengineer.ru/modeli-osi-iso-i-tcp-ip/](https://testengineer.ru/modeli-osi-iso-i-tcp-ip/)
-

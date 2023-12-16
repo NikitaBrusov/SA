@@ -1,4 +1,4 @@
-# ✍ Git (VCS)
+# Git (VCS)
 
 {% hint style="info" %}
 **Система управления версиями (Version control system, VCS)** — программа, позволяющая сохранять состояние файлов (те самые версии), возвращаться к ранее сохраненному состоянию, сохранять последовательность изменений внесенных в файлы, отменять или заново применять эти изменения, отслеживать авторство изменений.
@@ -70,7 +70,7 @@
 
 ## Последовательность действий
 
-<figure><img src="../../../../.gitbook/assets/system analyst base (1).jpg" alt=""><figcaption><p>Последовательность действий с шагами 1-8</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/system analyst base (1).jpg" alt=""><figcaption><p>Последовательность действий с шагами 1-8</p></figcaption></figure>
 
 1. Вы подключаетесь к репозиторию и клонируете его. (git clone)
 2. Делаете себе новую ветку. (git branch)
@@ -93,3 +93,4 @@
 * [https://thecode.media/git-2/](https://thecode.media/git-2/)
 * [https://skillbox.ru/media/code/chto\_takoe\_git\_obyasnyaem\_na\_skhemakh/](https://skillbox.ru/media/code/chto\_takoe\_git\_obyasnyaem\_na\_skhemakh/)
 * [https://smartiqa.ru/courses/git/lesson-3](https://smartiqa.ru/courses/git/lesson-3)
+* [https://askanydifference.com/ru/difference-between-commit-and-push/](https://askanydifference.com/ru/difference-between-commit-and-push/)

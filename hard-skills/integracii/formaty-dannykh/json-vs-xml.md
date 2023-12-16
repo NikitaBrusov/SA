@@ -1,2 +1,2 @@
-# 🔒 JSON vs XML
+# ✍ JSON vs XML
 

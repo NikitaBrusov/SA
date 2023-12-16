@@ -12,8 +12,8 @@
 
 Подробнее в главе HTTP:
 
-{% content-ref url="../../devops/osnovy-setei/http.md" %}
-[http.md](../../devops/osnovy-setei/http.md)
+{% content-ref url="../../devops-for-sa/osnovy-setei/http.md" %}
+[http.md](../../devops-for-sa/osnovy-setei/http.md)
 {% endcontent-ref %}
 
 ## API

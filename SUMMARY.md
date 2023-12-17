@@ -109,7 +109,7 @@
       * [Elasticsearch](hard-skills/devops-for-sa/monitoring-i-logirovanie/elk/elasticsearch.md)
       * [Logstash](hard-skills/devops-for-sa/monitoring-i-logirovanie/elk/logstash.md)
       * [Kibana](hard-skills/devops-for-sa/monitoring-i-logirovanie/elk/kibana.md)
-  * [✍ cmd](hard-skills/devops-for-sa/cmd.md)
+  * [Командная строка](hard-skills/devops-for-sa/komandnaya-stroka.md)
 * [📎 QA for SA](hard-skills/qa-for-sa/README.md)
   * [Postman | Insomnia](hard-skills/qa-for-sa/postman-or-insomnia.md)
   * [Swagger](hard-skills/qa-for-sa/swagger.md)

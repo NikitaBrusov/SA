@@ -30,7 +30,7 @@ Google как расшифровка литеры G — лишь одно из �
 
 ## Архитектура gRPC
 
-<figure><img src="../../../../../.gitbook/assets/system analyst base (2).jpg" alt="" width="563"><figcaption><p>Запрос-ответ gRPC</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/system analyst base (2).jpg" alt="" width="563"><figcaption><p>Запрос-ответ gRPC</p></figcaption></figure>
 
 ### HTTP/2
 

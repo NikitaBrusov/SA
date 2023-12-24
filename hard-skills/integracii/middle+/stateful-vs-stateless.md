@@ -1,4 +1,4 @@
-# 📎 Stateful vs Stateless
+# Stateful vs Stateless
 
 ## **Stateful архитектура**
 

@@ -40,8 +40,8 @@
 
 Подробнее об этом процессе можно почитать в статье из блока про "DevOps for SA/Развертывание приложений":
 
-{% content-ref url="../razvertyvanie-prilozhenii/virtualizaciya-konterizaciya/docker.md" %}
-[docker.md](../razvertyvanie-prilozhenii/virtualizaciya-konterizaciya/docker.md)
+{% content-ref url="../razvertyvanie-prilozhenii/middle+/virtualizaciya-konterizaciya/docker.md" %}
+[docker.md](../razvertyvanie-prilozhenii/middle+/virtualizaciya-konterizaciya/docker.md)
 {% endcontent-ref %}
 
 ### **Преимущества использования облачных платформ**

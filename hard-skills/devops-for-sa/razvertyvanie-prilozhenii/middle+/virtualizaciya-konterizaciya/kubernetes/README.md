@@ -43,7 +43,7 @@ Kubernetes действует на уровне логики, а не аппар
 
 ## Архитектура кластера Kubernetes
 
-<figure><img src="../../../../../.gitbook/assets/osi (11).jpg" alt=""><figcaption><p>Архитектура кластера Kubernetes</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/osi (11).jpg" alt=""><figcaption><p>Архитектура кластера Kubernetes</p></figcaption></figure>
 
 ### Nodes (ноды, узлы)
 
@@ -84,7 +84,7 @@ Nodes бывают двух типов:
 
 ## Компоненты кластера Kubernetes
 
-<figure><img src="../../../../../.gitbook/assets/osi (10).jpg" alt=""><figcaption><p>Компоненты на нодах</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/osi (10).jpg" alt=""><figcaption><p>Компоненты на нодах</p></figcaption></figure>
 
 1. **kube-apiserver.** С помощью сервера API обеспечивается работа API кластера, обрабатываются REST-операции и предоставляется интерфейс, через который остальные компоненты взаимодействуют друг с другом. Также через него проходят запросы на изменение состояния или чтение кластера.&#x20;
 2. **kube-scheduler.** Компонент, планирующий, на каких узлах разворачивать поды. Он учитывает такие факторы, как ограничения, требования к ресурсам, местонахождение данных и пр.&#x20;

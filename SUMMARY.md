@@ -15,6 +15,7 @@
     * [Agile](soft-skills/upravlenie-produktom/metodologii-razrabotki/agile/README.md)
       * [Scrum](soft-skills/upravlenie-produktom/metodologii-razrabotki/agile/scrum.md)
       * [Kanban](soft-skills/upravlenie-produktom/metodologii-razrabotki/agile/kanban.md)
+  * [SMART-цели](soft-skills/upravlenie-produktom/smart-celi.md)
 * [📍 Требования](soft-skills/trebovaniya/README.md)
   * [Классификация требований](soft-skills/trebovaniya/klassifikaciya-trebovanii/README.md)
     * [Уровень: Бизнес](soft-skills/trebovaniya/klassifikaciya-trebovanii/uroven-biznes.md)
@@ -150,3 +151,4 @@
   * [Советы по составлению резюме](drugoe/sovety-po-sostavleniyu-rezyume.md)
   * [Литература](drugoe/literatura.md)
   * [Контакты](drugoe/kontakty.md)
+  * [Page 1](drugoe/page-1.md)

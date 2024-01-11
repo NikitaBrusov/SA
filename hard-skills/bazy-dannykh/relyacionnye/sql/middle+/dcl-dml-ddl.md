@@ -1,2 +1,0 @@
-# DCL/DML/DDL
-

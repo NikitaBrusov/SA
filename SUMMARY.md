@@ -87,7 +87,7 @@
     * [Sync vs Async](hard-skills/integracii/vidy-integracii/sync-vs-async.md)
   * [🔒 Middle+](hard-skills/integracii/middle+/README.md)
     * [Stateful vs Stateless](hard-skills/integracii/middle+/stateful-vs-stateless.md)
-    * [Apache Flink](hard-skills/integracii/middle+/apache-flink/README.md)
+    * [Apache Flink](hard-skills/integracii/middle+/apache-flink.md)
       * [🔐 Spark](hard-skills/integracii/middle+/apache-flink/spark.md)
     * [оркестрация и хореография](hard-skills/integracii/middle+/orkestraciya-i-khoreografiya.md)
 * [📍 Проектирование](hard-skills/proektirovanie/README.md)
@@ -153,4 +153,3 @@
   * [Советы по составлению резюме](drugoe/sovety-po-sostavleniyu-rezyume.md)
   * [Литература](drugoe/literatura.md)
   * [Контакты](drugoe/kontakty.md)
-  * [Page 1](drugoe/page-1.md)

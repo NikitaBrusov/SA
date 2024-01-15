@@ -12,7 +12,7 @@
 3. Цикл статей по СА: [https://pikabu.ru/series/karera\_v\_it\_sistemnyiy\_analitik\_7199](https://pikabu.ru/series/karera\_v\_it\_sistemnyiy\_analitik\_7199)
 4. Ошибки на собеседованиях: [https://habr.com/ru/articles/694478/](https://habr.com/ru/articles/694478/)
 5. Роудмап для СА: [https://habr.com/ru/articles/692580/](https://habr.com/ru/articles/692580/)
-6. Большой сборник материала для БА: [https://biconsult.ru/products/uchebnyy-kurs-dlya-biznes-analitikov](https://biconsult.ru/products/uchebnyy-kurs-dlya-biznes-analitikov)
+6. Большой сборник материалов для БА: [https://biconsult.ru/products/uchebnyy-kurs-dlya-biznes-analitikov](https://biconsult.ru/products/uchebnyy-kurs-dlya-biznes-analitikov)
 
 **Статьи с вопросам на собеседованиях:**
 

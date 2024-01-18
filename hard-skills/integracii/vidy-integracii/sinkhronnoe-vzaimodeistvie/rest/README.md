@@ -64,7 +64,7 @@ RESTful API сводится к четырем базовым операциям
 * [http://js.programs.kodika.school/05\_rest\_api/](http://js.programs.kodika.school/05\_rest\_api/)
 
 [^1]: По другому такое сочетание методов называется CRUD модель, где:\
-    С — Create (POST)\
+    C — Create (POST)\
     R — Read (GET)\
     U — Update (PUT)\
     D — Delete (DELETE)

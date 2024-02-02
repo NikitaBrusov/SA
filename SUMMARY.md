@@ -9,6 +9,7 @@
     * [Системный аналитик (SA)](soft-skills/upravlenie-produktom/roli-v-it-produkte/sistemnyi-analitik-sa.md)
     * [Бизнес-аналитик (BA)](soft-skills/upravlenie-produktom/roli-v-it-produkte/biznes-analitik-ba.md)
     * [SA vs BA](soft-skills/upravlenie-produktom/roli-v-it-produkte/sa-vs-ba.md)
+    * [📎 Другие типы аналитиков](soft-skills/upravlenie-produktom/roli-v-it-produkte/drugie-tipy-analitikov.md)
   * [Жизненный цикл продукта](soft-skills/upravlenie-produktom/zhiznennyi-cikl-produkta.md)
   * [Методологии разработки](soft-skills/upravlenie-produktom/metodologii-razrabotki/README.md)
     * [Waterfall](soft-skills/upravlenie-produktom/metodologii-razrabotki/waterfall.md)

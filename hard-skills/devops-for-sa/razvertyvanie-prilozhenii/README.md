@@ -10,7 +10,7 @@ description: Deploy process
 
 ## Откуда тут DevOps?
 
-<figure><img src="../../../.gitbook/assets/osi (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/system analyst base (6) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Возвращаясь к главе:
 

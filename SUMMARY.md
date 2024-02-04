@@ -99,6 +99,7 @@
     * [Микросервисы](hard-skills/proektirovanie/arkhitektura/mikroservisy/README.md)
       * [✍ Паттерны реализации](hard-skills/proektirovanie/arkhitektura/mikroservisy/patterny-realizacii.md)
     * [Монолит vs Микросервисы](hard-skills/proektirovanie/arkhitektura/monolit-vs-mikroservisy.md)
+    * [Идентификация и прочее](hard-skills/proektirovanie/arkhitektura/identifikaciya-i-prochee.md)
     * [🔒 Middle+](hard-skills/proektirovanie/arkhitektura/middle+/README.md)
       * [Бессерверная](hard-skills/proektirovanie/arkhitektura/middle+/besservernaya.md)
       * [Сервис-ориентированная (SOA)](hard-skills/proektirovanie/arkhitektura/middle+/servis-orientirovannaya-soa.md)

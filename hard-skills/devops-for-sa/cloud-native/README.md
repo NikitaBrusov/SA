@@ -30,8 +30,8 @@
 
 Подробнее об этом процессе можно почитать в статье из блока про "Проектирование/Архитектура":
 
-{% content-ref url="../../proektirovanie/arkhitektura/mikroservisy.md" %}
-[mikroservisy.md](../../proektirovanie/arkhitektura/mikroservisy.md)
+{% content-ref url="../../proektirovanie/arkhitektura/mikroservisy/" %}
+[mikroservisy](../../proektirovanie/arkhitektura/mikroservisy/)
 {% endcontent-ref %}
 
 ### **Контейнеризация**&#x20;

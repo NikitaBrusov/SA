@@ -52,3 +52,5 @@
 
 
 Источник: [https://habr.com/ru/companies/itq\_group/articles/705598/](https://habr.com/ru/companies/itq\_group/articles/705598/)
+
+[https://habr.com/ru/articles/590679/](https://habr.com/ru/articles/590679/) (новая)

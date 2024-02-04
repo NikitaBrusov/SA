@@ -52,7 +52,8 @@
     * [🔐 Senior](hard-skills/bazy-dannykh/nerelyacionnye/senior/README.md)
       * [Графовые](hard-skills/bazy-dannykh/nerelyacionnye/senior/grafovye/README.md)
         * [JanusGraph | Neo4j etc](hard-skills/bazy-dannykh/nerelyacionnye/senior/grafovye/janusgraph-or-neo4j-etc.md)
-  * [📎 Индексы в таблицах](hard-skills/bazy-dannykh/indeksy-v-tablicakh.md)
+  * [Масштабирование БД](hard-skills/bazy-dannykh/masshtabirovanie-bd.md)
+  * [Оптимизация БД](hard-skills/bazy-dannykh/optimizaciya-bd.md)
   * [🔒 Middle+](hard-skills/bazy-dannykh/middle+/README.md)
     * [Хранение и анализ данных](hard-skills/bazy-dannykh/middle+/khranenie-i-analiz-dannykh/README.md)
       * [ETL](hard-skills/bazy-dannykh/middle+/khranenie-i-analiz-dannykh/etl.md)
@@ -150,6 +151,7 @@
 * [📎 QA for SA](hard-skills/qa-for-sa/README.md)
   * [Postman | Insomnia](hard-skills/qa-for-sa/postman-or-insomnia.md)
   * [Swagger](hard-skills/qa-for-sa/swagger.md)
+  * [Верификация vs Валидация](hard-skills/qa-for-sa/verifikaciya-vs-validaciya.md)
 
 ***
 

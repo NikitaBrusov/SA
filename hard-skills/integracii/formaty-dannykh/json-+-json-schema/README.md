@@ -296,6 +296,111 @@ JSON Schema – это своеобразный язык описания стр
 [1, 2, 3, 4]
 </code></pre></td></tr></tbody></table>
 
+## Пример&#x20;
+
+<table data-full-width="true"><thead><tr><th width="196">Поле</th><th></th><th>Тип</th><th>Обязательность</th><th>Описание </th></tr></thead><tbody><tr><td>time</td><td></td><td><p>string</p><p>"pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}(T[0-9]{2}:[0-9]{2}(:[0-9]{2}(\\\\.[0-9]{6})?((-|\\\\+)[0-9]{2}:[0-9]{2})?)?)?$"</p></td><td>Да</td><td>Дата и время сообщения</td></tr><tr><td>eventId</td><td></td><td>string (255)</td><td>Да</td><td>Уникальный идентификатор события</td></tr><tr><td>contactID</td><td></td><td>string (255)</td><td>Да</td><td>Идентификатор контакта</td></tr><tr><td>operationType</td><td></td><td>string (enum)</td><td>Да</td><td>Тип операции<br>CREATE, READ, UPDATE, DELETE</td></tr><tr><td>getFlag</td><td></td><td>string (1)</td><td>Да</td><td>Флаг</td></tr><tr><td>phoneNumber</td><td></td><td><p>string (50)</p><p>pattern: "^([0-9]{10})$"</p></td><td>Да</td><td>Номер телефона клиента</td></tr><tr><td>phoneNumberTimeZone</td><td></td><td>string (255)</td><td>Да</td><td>Таймзона клиента</td></tr><tr><td>scenarioId</td><td></td><td>string (255)</td><td>Да</td><td>Номер сценария</td></tr><tr><td>customAttributeList</td><td></td><td>Array [Object]</td><td>Да</td><td></td></tr><tr><td></td><td>attributeName</td><td>string (255)</td><td>Да</td><td>Идентификатор атрибута<br>cardNum, lockSum, lockCurrency, lockDate</td></tr><tr><td></td><td>attributeValue</td><td>string (255)</td><td>Да</td><td>Значение атрибута</td></tr></tbody></table>
+
+<details>
+
+<summary>Большой развернутый пример</summary>
+
+```json
+{    
+    "$schema":"http://json-schema.org/draft-06/schema#",
+    "$ref":"#/definitions/test",
+    "description": "Тестовое описание",
+    "type": "object",
+    "properties": {
+      "time": {
+        "type": "string",
+        "description": "Дата и время сообщения",
+        "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}(T[0-9]{2}:[0-9]{2}(:[0-9]{2}(\\\\.[0-9]{6})?((-|\\\\+)[0-9]{2}:[0-9]{2})?)?)?$"
+      },
+      "eventId": {
+        "type": "string",
+        "description": "Уникальный идентификатор события",
+        "minLength": 1,
+        "maxLength": 255
+      },
+      "contactID": {
+        "type": "string",
+        "description": "Идентификатор контакта",
+        "minLength": 1,
+        "maxLength": 255
+      },
+      "operationType": {
+        "type": "string",
+        "description": "Тип операции",
+	"enum": ["CREATE", "READ", "UPDATE", "DELETE"]
+      },
+      "getFlag": {
+        "type": "string",
+        "description": "Флаг",
+	"maxLength": 1
+      },
+      "phoneNumber": {
+        "type": "string",
+        "description": "Номер телефона клиента",
+        "pattern": "^([0-9]{10})$",
+        "minLength": 1,
+	"maxLength": 50
+      },
+      "phoneNumberTimeZone": {
+        "type": "string",
+        "description": "Таймзона клиента",
+        "minLength": 1,
+	"maxLength": 255
+      },
+      "scenarioId": {
+        "type": "string",
+        "description": "Номер сценария",
+        "minLength": 1,
+	"maxLength": 255
+      },
+      "customAttributeList": {
+        "type": "array",
+	"items": {
+		"type": "object",
+		"properties": {
+			"attributeName": {
+				"type": "string",
+				"description": "Идентификатор атрибута",
+				"minLength": 1,
+				"maxLength": 255,
+				"enum": ["cardNum", "lockSum", "lockCurrency", "lockDate"]
+				},
+			"attributeValue": {
+				"type": "string",
+				"description": "Значение атрибута",
+				"minLength": 1,
+				"maxLength": 255
+				}
+			},	
+		"additionalProperties": false,
+		"required":[
+			"attributeName",
+			"attributeValue"
+			]
+               }
+      }
+    },
+"additionalProperties": false,
+"required": [
+	"time",
+	"eventId",
+	"contactID",
+	"operationType",
+	"getFlag",
+	"phoneNumber",
+	"phoneNumberTimeZone",
+	"scenarioId",
+	"customAttributeList"
+    ]
+}
+```
+
+</details>
+
 
 
 

@@ -23,6 +23,7 @@
     * [Уровень: Пользователь](soft-skills/trebovaniya/klassifikaciya-trebovanii/uroven-polzovatel/README.md)
       * [Use case](soft-skills/trebovaniya/klassifikaciya-trebovanii/uroven-polzovatel/use-case.md)
       * [User story](soft-skills/trebovaniya/klassifikaciya-trebovanii/uroven-polzovatel/user-story.md)
+      * [📎 Job story](soft-skills/trebovaniya/klassifikaciya-trebovanii/uroven-polzovatel/job-story.md)
     * [Уровень: Продукт](soft-skills/trebovaniya/klassifikaciya-trebovanii/uroven-produkt/README.md)
       * [Функциональные требования](soft-skills/trebovaniya/klassifikaciya-trebovanii/uroven-produkt/funkcionalnye-trebovaniya.md)
       * [Нефункциональные требования](soft-skills/trebovaniya/klassifikaciya-trebovanii/uroven-produkt/nefunkcionalnye-trebovaniya.md)

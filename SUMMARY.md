@@ -34,7 +34,8 @@
 
 * [📍 Базы данных](hard-skills/bazy-dannykh/README.md)
   * [Реляционные](hard-skills/bazy-dannykh/relyacionnye/README.md)
-    * [Транзакции](hard-skills/bazy-dannykh/relyacionnye/tranzakcii.md)
+    * [Транзакции](hard-skills/bazy-dannykh/relyacionnye/tranzakcii/README.md)
+      * [🔒 CAP](hard-skills/bazy-dannykh/relyacionnye/tranzakcii/cap.md)
     * [Нормальные формы](hard-skills/bazy-dannykh/relyacionnye/normalnye-formy.md)
     * [SQL](hard-skills/bazy-dannykh/relyacionnye/sql/README.md)
       * [DML](hard-skills/bazy-dannykh/relyacionnye/sql/dml.md)

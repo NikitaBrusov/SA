@@ -42,6 +42,7 @@
       * [DML](hard-skills/bazy-dannykh/relyacionnye/sql/dml.md)
       * [DDL/DCL/TCL](hard-skills/bazy-dannykh/relyacionnye/sql/ddl-dcl-tcl.md)
       * [🔒 Представления VIEW](hard-skills/bazy-dannykh/relyacionnye/sql/predstavleniya-view.md)
+    * [Констрейты](hard-skills/bazy-dannykh/relyacionnye/konstreity.md)
     * [📎 Типы данных](hard-skills/bazy-dannykh/relyacionnye/tipy-dannykh.md)
     * [🔒 Middle+](hard-skills/bazy-dannykh/relyacionnye/middle+/README.md)
       * [Особенности работы с конкертными реляционными БД](hard-skills/bazy-dannykh/relyacionnye/middle+/osobennosti-raboty-s-konkertnymi-relyacionnymi-bd.md)

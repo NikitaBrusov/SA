@@ -29,7 +29,7 @@ description: Добавь базе скорость
 
 Перед нами B-дерево индекса, присвоенного полю в таблице (которое чаще всего используется при выборках). В каждом узле хранятся элементы со значениями.Также элементы хранят ссылку на строку в таблице.
 
-<figure><img src="../../.gitbook/assets/10012702122019_d58f50d1222620cd1cfe95da3a91221bd0d26e65.png.webp" alt=""><figcaption><p>Поиск значения 2001</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/10012702122019_d58f50d1222620cd1cfe95da3a91221bd0d26e65.png.webp" alt=""><figcaption><p>Поиск значения 2001</p></figcaption></figure>
 
 Поиск начинается с корневого узла. Наша задача — пройти по каждому элементу в узле и сравнить его значение с искомым:
 
@@ -53,7 +53,8 @@ description: Добавь базе скорость
 
 
 
-Источник:
+Источники:
 
 * [https://habr.com/ru/companies/ruvds/articles/724066/](https://habr.com/ru/companies/ruvds/articles/724066/)
 * [https://skillbox.ru/media/code/kak\_uskorit\_bazu\_dannykh\_s\_pomoshchyu\_indeksov/](https://skillbox.ru/media/code/kak\_uskorit\_bazu\_dannykh\_s\_pomoshchyu\_indeksov/)
+* [https://otus.ru/journal/vse-chto-neobhodimo-znat-pro-indeksy-ms-sql/](https://otus.ru/journal/vse-chto-neobhodimo-znat-pro-indeksy-ms-sql/) (почитать!)

@@ -1,2 +1,2 @@
-# ✍ Hadoop
+# Hadoop
 

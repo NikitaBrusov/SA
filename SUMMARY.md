@@ -79,6 +79,7 @@
     * [Синхронное взаимодействие](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/README.md)
       * [REST](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/README.md)
         * [RESTful принципы](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/restful-principy/README.md)
+          * [Кеширование](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/restful-principy/keshirovanie.md)
           * [🔒 Cтепень зрелости REST API](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/restful-principy/ctepen-zrelosti-rest-api.md)
         * [Асинхронный REST](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/asinkhronnyi-rest.md)
       * [SOAP](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/soap/README.md)

@@ -129,6 +129,7 @@
       * [IDEF0](hard-skills/proektirovanie/notacii-i-diagrammy/middle+/idef0.md)
   * [📎 Прототипирование](hard-skills/proektirovanie/prototipirovanie/README.md)
     * [Figma vs Axure](hard-skills/proektirovanie/prototipirovanie/figma-vs-axure.md)
+  * [🔐 Системный дизайн](hard-skills/proektirovanie/sistemnyi-dizain.md)
 * [📎 DevOps for SA](hard-skills/devops-for-sa/README.md)
   * [Основы сетей](hard-skills/devops-for-sa/osnovy-setei/README.md)
     * [OSI](hard-skills/devops-for-sa/osnovy-setei/osi.md)

@@ -70,7 +70,11 @@
 
 ## Последовательность действий
 
+<div data-full-width="true">
+
 <figure><img src="../../../.gitbook/assets/system analyst base (1).jpg" alt=""><figcaption><p>Последовательность действий с шагами 1-8</p></figcaption></figure>
+
+</div>
 
 1. Вы подключаетесь к репозиторию и клонируете его. (git clone)
 2. Делаете себе новую ветку. (git branch)

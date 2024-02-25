@@ -4,7 +4,11 @@
 **Waterfall** - классическая поэтапная методология, в которой каждый следующий шаг начинается только после завершения предыдущего. В отличие от Agile каскадная модель не допускает изменений в этапах разработки.
 {% endhint %}
 
+<div data-full-width="true">
+
 <figure><img src="../../../.gitbook/assets/system analyst base.jpg" alt=""><figcaption><p>Основные этапы методологии Waterfall</p></figcaption></figure>
+
+</div>
 
 ## Преимущества
 

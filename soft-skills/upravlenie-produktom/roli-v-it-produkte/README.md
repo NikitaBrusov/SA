@@ -4,7 +4,11 @@ description: Кто и где Я
 
 # Роли в IT продукте
 
+<div data-full-width="true">
+
 <figure><img src="../../../.gitbook/assets/system analyst base (5).jpg" alt=""><figcaption><p>Роли в IT продукте</p></figcaption></figure>
+
+</div>
 
 ## Product manager (PrM)
 

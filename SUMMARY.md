@@ -79,9 +79,14 @@
     * [Синхронное взаимодействие](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/README.md)
       * [REST](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/README.md)
         * [RESTful принципы](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/restful-principy/README.md)
+          * [Отсутствие состояния (Авторизация)](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/restful-principy/otsutstvie-sostoyaniya-avtorizaciya/README.md)
+            * [🔒 OAuth / OpenID Connect](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/restful-principy/otsutstvie-sostoyaniya-avtorizaciya/oauth-openid-connect.md)
           * [Кеширование](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/restful-principy/keshirovanie.md)
+          * [Единообразие интерфейса (CRUD)](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/restful-principy/edinoobrazie-interfeisa-crud/README.md)
+            * [Запрос/ответ](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/restful-principy/edinoobrazie-interfeisa-crud/zapros-otvet.md)
           * [🔒 Cтепень зрелости REST API](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/restful-principy/ctepen-zrelosti-rest-api.md)
         * [Асинхронный REST](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/asinkhronnyi-rest.md)
+        * [📎 Проектирование API](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/rest/proektirovanie-api.md)
       * [SOAP](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/soap/README.md)
         * [XSD](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/soap/xsd.md)
         * [WSDL](hard-skills/integracii/vidy-integracii/sinkhronnoe-vzaimodeistvie/soap/wsdl.md)
@@ -109,7 +114,6 @@
     * [Микросервисы](hard-skills/proektirovanie/arkhitektura/mikroservisy/README.md)
       * [Паттерны реализации](hard-skills/proektirovanie/arkhitektura/mikroservisy/patterny-realizacii.md)
     * [Монолит vs Микросервисы](hard-skills/proektirovanie/arkhitektura/monolit-vs-mikroservisy.md)
-    * [Идентификация и прочее](hard-skills/proektirovanie/arkhitektura/identifikaciya-i-prochee.md)
     * [🔒 Middle+](hard-skills/proektirovanie/arkhitektura/middle+/README.md)
       * [Бессерверная](hard-skills/proektirovanie/arkhitektura/middle+/besservernaya.md)
       * [Сервис-ориентированная (SOA)](hard-skills/proektirovanie/arkhitektura/middle+/servis-orientirovannaya-soa.md)
@@ -162,6 +166,7 @@
   * [Postman | Insomnia](hard-skills/qa-for-sa/postman-or-insomnia.md)
   * [Swagger](hard-skills/qa-for-sa/swagger.md)
   * [Верификация vs Валидация](hard-skills/qa-for-sa/verifikaciya-vs-validaciya.md)
+  * [Идентификация/Аутентификация/Авторизация](hard-skills/qa-for-sa/identifikaciya-autentifikaciya-avtorizaciya.md)
 
 ***
 

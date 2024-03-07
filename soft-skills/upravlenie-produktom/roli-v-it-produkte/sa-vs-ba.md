@@ -30,4 +30,6 @@
 
 
 
-Источник: [https://practicum.yandex.ru/blog/kto-takoy-sistemnyi-analitik/#obyazannosti-sistemnogo-analitika](https://practicum.yandex.ru/blog/kto-takoy-sistemnyi-analitik/#obyazannosti-sistemnogo-analitika)
+Источник:
+
+* &#x20;[https://practicum.yandex.ru/blog/kto-takoy-sistemnyi-analitik/#obyazannosti-sistemnogo-analitika](https://practicum.yandex.ru/blog/kto-takoy-sistemnyi-analitik/#obyazannosti-sistemnogo-analitika)
